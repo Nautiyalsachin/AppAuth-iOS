@@ -103,6 +103,9 @@ With [CocoaPods](https://guides.cocoapods.org/using/getting-started.html),
 add the following line to your `Podfile`:
 
     pod 'AppAuth'
+    
+    pod 'AppAuth', :git => 'https://github.com/Nautiyalsachin/AppAuth-iOS.git'
+
 
 Then, run `pod install`.
 
